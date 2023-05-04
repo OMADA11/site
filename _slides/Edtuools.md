@@ -1,10 +1,10 @@
 ---
 layout: slides
 title: Εκπαιδετικά Εργαλεία
-image_url: /images/Edmodo.jpg
+image_url: /images/Edmodo.png
 caption: 'Από την δεκαετία του 60 και μετέπειτα, έχουν υπάρξει συσκευές και εφαρμογές οι οποίες είχαν σαν στόχο να βοηθήσουν τον μαθητή στην απόκτηση γνώσεων. Σήμερα, αυτά τα μέσα έχουν εξελιχθεί σε τέτοιο βαθμό,όπου αποτελούν βασικά μαθησιακά εργαλεία για έναν μαθητή.'
 slides:
- - Logo
+ - Edmodo
  - minecraft-end-user
  - mit-scratch
  - math-blaster
