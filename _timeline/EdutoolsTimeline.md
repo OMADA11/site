@@ -8,5 +8,4 @@ events:
   - minecraft-end-user
   - mit-scratch
   - math-blaster
-  - Webex
 ---
